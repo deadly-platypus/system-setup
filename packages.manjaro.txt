@@ -1,1 +1,1 @@
-neovim chezmoi alacritty
+neovim chezmoi alacritty lastpass-cli
