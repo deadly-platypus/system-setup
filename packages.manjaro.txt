@@ -1,1 +1,1 @@
-vim chezmoi
+neovim chezmoi alacritty
