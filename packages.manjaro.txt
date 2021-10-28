@@ -1,1 +1,1 @@
-neovim chezmoi alacritty lastpass-cli
+qt5-graphicaleffects qt5-quickcontrols2 qt5-svg zsh-autosuggestions ttf-meslo-nerd-font-powerlevel10k neovim chezmoi alacritty lastpass-cli zsh-theme-powerlevel10k

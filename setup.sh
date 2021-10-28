@@ -16,3 +16,8 @@ execute_cmd pamac install $(cat packages.$os.txt)
 execute_cmd chsh /bin/zsh
 execute_cmd chezmoi init git@github.com:deadly-platypus/dotfiles.git
 execute_cmd chezmoi apply
+
+if [ -e cmds.$os.txt ]; then
+	cat cmds.$os.txt | while read line; do execute_cmd $line; done;
+fi
+

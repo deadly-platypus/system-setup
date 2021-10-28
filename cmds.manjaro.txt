@@ -1,0 +1,1 @@
+sudo cp sddm.dpi.conf /etc/sddm.conf.d/dpi.conf
